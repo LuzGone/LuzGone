@@ -26,6 +26,6 @@
   
 ##
   
-- 🔭 Atualmente sou Estudante no Curso de Sistemas para Internet
 - 🌱 Estudando: Desenvolimento Web
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
+- 📫 Contato: Luzgone.contact@gmail.com
